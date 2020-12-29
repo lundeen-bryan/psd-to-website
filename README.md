@@ -1,7 +1,8 @@
 # Learn PSD to HTML : Responsive Portfolio Website Design by Supriyo Kundu
 
 ![[Image Desc for project]]([project image url])
-> [brief project description]
+
+> This tutorial just goes from a basic psd file to a responsiive portfolio website.
 
 ---
 
